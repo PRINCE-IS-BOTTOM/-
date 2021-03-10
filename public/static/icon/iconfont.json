@@ -1,0 +1,30 @@
+{
+  "id": "2406674",
+  "name": "mypro",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1511004",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "8988966",
+      "name": "文件夹",
+      "font_class": "wenjianjia",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "14433091",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e803",
+      "unicode_decimal": 59395
+    }
+  ]
+}
